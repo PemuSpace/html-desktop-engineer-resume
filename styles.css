@@ -1,0 +1,31 @@
+footer {
+    padding: 10px;
+    background-color: #666;
+color: blue;
+
+
+text-align: center;
+}
+
+*{
+    font-family: Verdana;
+    font-size: small;
+}
+
+ol{
+
+    font-size: small;
+}
+
+h1{
+    font-size: x-large;
+    text-align: center;
+}
+
+header{
+
+    background-color: #666;
+    padding: 20px;
+    text-align: center;
+
+}
